@@ -9,7 +9,7 @@ function App() {
 			<nav class="navbar background">
 				<ul class="nav-list">
 					<div class="logo">
-						<img src={reactLogo}/>
+						<img alt="logo" src={reactLogo}/>
 					</div>
 					<li>About Us</li>
 				</ul>
@@ -24,7 +24,7 @@ function App() {
 				<div class="box-main">
 					<div class="firstHalf">
 						<h1 class="text-big">
-						<p><img src={construction}/></p>
+						<p><img alt="Contruction" src={construction}/></p>
 						</h1>
 						<p>&nbsp;</p>
 						<p class="text-small">
